@@ -1,0 +1,13 @@
+﻿body {
+    background-image: url("background.png"); /* replace with your image name */
+    background-size: cover; /* makes it cover the whole page */
+    background-repeat: no-repeat; /* prevents tiling */
+    background-position: center; /* keeps it centered */
+    height: 100vh;
+    margin: 0;
+}
+h1 {
+    color: black;
+    
+    font-family: Arial, sans-serif;
+}
